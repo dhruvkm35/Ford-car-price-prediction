@@ -38,5 +38,5 @@ This is part of my **Machine Learning learning journey** 🚀
 If you have suggestions, feel free to share!
 
 🔗 LinkedIn: \[https://www.linkedin.com/in/dhruv-kumar-05aa54380/]
-🔗 GitHub Repo: \[Repo Link]
+🔗 GitHub Repo: \[https://github.com/dhruvkm35/Ford-car-price-prediction.git]
 
